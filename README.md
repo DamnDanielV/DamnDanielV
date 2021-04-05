@@ -45,6 +45,7 @@
 - PostgreSQL <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 
 <br />
+
 ### Frontend with:
 
 - React <img align="left" alt="React" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />

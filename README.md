@@ -30,6 +30,7 @@
 - Python <img align="left" alt="Python" width="35px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true" />
 
 - Django <img align="left" alt="Django" width="55px" src="https://img.icons8.com/ios/452/django.png" />
+<br />
 
 - Firebase <img align="left" alt="Firebase" width="55px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
 
@@ -43,12 +44,12 @@
 
 - PostgreSQL <img align="left" alt="PostgreSQL" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-226047.png" />
 
-
+<br />
 ### Frontend with:
 
 - React <img align="left" alt="React" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 
-<br />
+
 <br />
 
 ### Knowledge in:
